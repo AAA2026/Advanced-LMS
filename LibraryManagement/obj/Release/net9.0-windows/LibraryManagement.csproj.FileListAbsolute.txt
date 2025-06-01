@@ -1,0 +1,5 @@
+C:\Users\abdal\OneDrive\Desktop\library\LibraryManagement\obj\Release\net9.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\abdal\OneDrive\Desktop\library\LibraryManagement\obj\Release\net9.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\OneDrive\Desktop\library\LibraryManagement\obj\Release\net9.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\abdal\OneDrive\Desktop\library\LibraryManagement\obj\Release\net9.0-windows\LibraryManagement.AssemblyInfo.cs
+C:\Users\abdal\OneDrive\Desktop\library\LibraryManagement\obj\Release\net9.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
