@@ -10,7 +10,7 @@ The application facilitates core library transactions, specifically borrowing an
 
 ## Prerequisites
 
-Before running this application, ensure you have the following software installed on your system:
+### Before running this application, ensure you have the following software installed on your system:
 
 *   **.NET Desktop Runtime 9.0 or later:** The application is built on the .NET 9.0 framework and requires the corresponding runtime for execution. You can download it from the official Microsoft .NET website.
 *   **MySQL Server:** A running instance of MySQL server is required to host the library database. The application connects to this database to store and retrieve all its data. Ensure the MySQL server is accessible from the machine where the application will run.
