@@ -1,5 +1,4 @@
-## Library Management System
-
+## Advanced LMS
 This project is a comprehensive desktop application designed for managing the operations of a library. Built using C# with Windows Forms on the .NET 9.0 framework, it provides a graphical user interface for librarians and members to interact with the library's catalog and services. The system utilizes a MySQL database to store and manage information about books, members, transactions, and other relevant library data.
 
 ## Features
